@@ -1,0 +1,2 @@
+# FridgeBuddy
+Tracks Fridge Contents
