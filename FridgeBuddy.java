@@ -1,7 +1,10 @@
+import java.time.LocalDateTime;
+
 public class FridgeBuddy {
     
     public static void main(String args[]){
-        System.out.println("Hello World");
+        FoodItem test = new FoodItem("Orange", LocalDateTime.now().plusMinutes(20));
+        System.out.println(test);
     }
 
 }
